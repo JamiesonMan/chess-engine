@@ -21,3 +21,11 @@ Objective:
   
   I want to improve this engine after finishing it initially as well. A goal of mine would be to achieve roughly 2000 elo, which I will test by publishing the both through Lichess.
 
+Research:
+  I've been wanting to do this project for a while now, and finally at this point in my schooling at WSU, I feel that I have the ability and confidence that I can create this chess engine and reach my goal of 2000 elo. What initially made me interested in this project was a youtube video (https://www.youtube.com/watch?v=U4ogK0MIzqk&t) by Sebastion Lague, and his second video on the same program (https://www.youtube.com/watch?v=_vqlIPDR2TU).
+
+  There are a lot of parts in this project that I know only the abstract parts of as of now or know near nothing as to how I'll solve them. So future research will be added here.
+
+
+
+  
